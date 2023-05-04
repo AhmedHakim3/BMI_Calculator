@@ -5,8 +5,6 @@ import 'package:flutter/material.dart';
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // main axis alignment : start
-    // cross axis alignment : center
 
     return Scaffold(
       appBar: AppBar(
